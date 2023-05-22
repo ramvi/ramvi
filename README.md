@@ -5,12 +5,6 @@
 
 Hi there! My name is Jon Ramvi and I live in Oslo, Norway. 
 
-## About me
-
-* Two cats
-* Two children
-* One wife
-
 ## My Projects
 
 🚀 Developer with a focus on web3 technology.
