@@ -17,6 +17,8 @@ Hi there! My name is Jon Ramvi and I live in Oslo, Norway.
 
 * **CBDC**: Developed Stealth transactions (details in this blog post by Vitalik Buterin [here](https://vitalik.ca/general/2023/01/20/stealth.html)), Verifiable credentials, max limits and continuous interest calculation in [the Norwegian Bank CBDC](https://github.com/norges-bank/cbdc-sandbox-contracts).
 
+### Stack Overflow
+<a href="https://stackexchange.com/users/200314"><img src="https://stackexchange.com/users/flair/200314.png?theme=dark" width="208" height="58" alt="profile for Jon Ramvi on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Jon Ramvi on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 ## Contact Me
 
